@@ -1,0 +1,10 @@
+[project]
+name = "rag-pipeline-evaluation"
+version = "0.1.0"
+description = "RAG pipeline with retrieval and answer evaluation."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
