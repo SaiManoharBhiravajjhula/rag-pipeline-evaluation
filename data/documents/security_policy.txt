@@ -1,0 +1,3 @@
+Customer data must be encrypted in transit and at rest. Access to production data requires manager approval, ticket tracking, and quarterly access review.
+
+Security incidents must be reported to the security team immediately and documented in the incident register.
